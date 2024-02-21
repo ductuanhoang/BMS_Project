@@ -13,7 +13,7 @@ https://www.figma.com/file/KZnPZJvIBvqHUTcTi8bEAP/Battery-Management?type=design
 ## Nextion LCD
 - Hardware use NX8048P050
 - Ui project for nextion LCD see "Ui_nextion" folder
-![Screenshot](picture/screen_ui_nextion.png)
+![Screenshot](picture/screen_ui_nextion.PNG)
 
 ## Run this project
 - battery_CAN_Show_v2: 
@@ -22,8 +22,8 @@ https://www.figma.com/file/KZnPZJvIBvqHUTcTi8bEAP/Battery-Management?type=design
 ![Screenshot](picture/diagram_project.png)
 
 ## Picture of battery monitor software
-![Screenshot](picture/battery_software_monitor.png)
-![Screenshot](picture/battery_simulation.png)
+![Screenshot](picture/battery_software_monitor.PNG)
+![Screenshot](picture/battery_simulation.PNG)
 
 ## need to test
 - Update firmware via CAN bus
