@@ -10,7 +10,7 @@ build project by stm32 cubeide and IAR, QT5
 
 # UI link for nextion LCD
 https://www.figma.com/file/KZnPZJvIBvqHUTcTi8bEAP/Battery-Management?type=design&node-id=19-2225&mode=design&t=xZmktoam9JMLjmON-0
-# Nextion LCD
+## Nextion LCD
 - Hardware use NX8048P050
 - Ui project for nextion LCD see "Ui_nextion" folder
 ![Screenshot](picture/screen_ui_nextion.png)
@@ -19,7 +19,7 @@ https://www.figma.com/file/KZnPZJvIBvqHUTcTi8bEAP/Battery-Management?type=design
 - battery_monitor_v3: Note if want to goes to simulation mode need to change all dip sw to 0 position
 ## Block diagram of project
 ![Screenshot](picture/diagram_project.png)
-# Picture of battery monitor software
+## Picture of battery monitor software
 ![Screenshot](picture/battery_software_monitor.png)
 ![Screenshot](picture/battery_simulation.png)
 ## need to test
