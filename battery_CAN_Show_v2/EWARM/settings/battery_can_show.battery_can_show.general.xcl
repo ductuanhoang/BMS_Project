@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\bin\armjlink2.dll" 
+
+"D:\2.upwork\74.AnhAn\1.Code\battery_CAN_Show_v2\EWARM\battery_can_show\Exe\battery_can_show.out" 
+
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\config\debugger\ST\STM32F1xx.dmac" 
+
+--flash_loader="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\config\flashloader\ST\FlashSTM32F10xx8.board" 
+
+
+
+
