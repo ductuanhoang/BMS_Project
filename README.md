@@ -14,14 +14,17 @@ https://www.figma.com/file/KZnPZJvIBvqHUTcTi8bEAP/Battery-Management?type=design
 - Hardware use NX8048P050
 - Ui project for nextion LCD see "Ui_nextion" folder
 ![Screenshot](picture/screen_ui_nextion.png)
+
 ## Run this project
 - battery_CAN_Show_v2: 
 - battery_monitor_v3: Note if want to goes to simulation mode need to change all dip sw to 0 position
 ## Block diagram of project
 ![Screenshot](picture/diagram_project.png)
+
 ## Picture of battery monitor software
 ![Screenshot](picture/battery_software_monitor.png)
 ![Screenshot](picture/battery_simulation.png)
+
 ## need to test
 - Update firmware via CAN bus
 - Update ui of master monitor battery voltage via Serial interface
